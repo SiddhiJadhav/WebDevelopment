@@ -1,0 +1,31 @@
+/*body{
+	border:20px solid gray;
+}*/
+
+h1{
+	text-align: center;
+	font-family: Titillium Web;
+	font-weight: 400;
+	color: #2c3e50;
+
+}
+
+
+.col-lg-5{
+	border:15px solid #bdc3c7;
+	padding: 10px 10px;
+	padding-top: 40px;
+
+
+}
+
+#style-four {
+	margin-bottom: 10px;
+    height: 50px;
+    border: 0;
+    box-shadow: inset 0 12px 12px -12px rgba(0, 0, 0, 0.5);
+}
+
+.container{
+	text-align: center;
+}

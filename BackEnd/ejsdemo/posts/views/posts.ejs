@@ -1,0 +1,9 @@
+<link rel="stylesheet" href="app.css">
+
+
+<h1>This is posts.ejs </h1>
+
+<% for(var i = 0;i < post.length ; i++){ %>
+    <li> <%= post[i].title %> - <%= post[i].author %> </li>
+<% } %>
+

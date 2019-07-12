@@ -1,0 +1,15 @@
+i.icon{
+    font-size: 1.5em;
+}
+
+.container.segment{
+    margin-top: 7em;
+}
+
+#nav{
+    margin-top: 7em;   
+}
+
+#inline{
+    display: inline;
+}

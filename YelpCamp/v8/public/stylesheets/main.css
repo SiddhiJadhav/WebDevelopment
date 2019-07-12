@@ -1,0 +1,11 @@
+.img-fluid{
+    width:100%;
+}
+
+#padd{
+    padding: 0px;
+} 
+
+.img-thumbnail .caption{
+    padding: 9px;
+}

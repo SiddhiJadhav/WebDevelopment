@@ -1,0 +1,5 @@
+function fastclick()
+{
+	window.location="";
+	document.getElementryByID('button-id').click();
+}
